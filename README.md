@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **smart parents**
 
-- 🌱 I’m currently learning **flutter**
+- 💬 Ask me about **HTML,CSS,Flutter,PHP,Android**
 
 - 📫 How to reach me **dev.dhruvin.0.1@gmail.com**
 
