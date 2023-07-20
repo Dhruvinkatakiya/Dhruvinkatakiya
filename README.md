@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvinkatakiya&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvinkatakiya" /> </p>
 
-- 🔭 I’m currently working on **smart parents**
+/*- 🔭 I’m currently working on **smart parents**  */
 
 - 💬 Ask me about **HTML,CSS,Flutter,PHP,Android**
 
