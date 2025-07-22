@@ -1,27 +1,83 @@
+<h1 align="center">Hi 👋, I'm Dhruvin Katakiya</h1>
+<h3 align="center">💻 Software Developer | 🎨 UI/UX Designer </h3>
 
-<h1 align="center">Hi 👋, I'm Dhruvin katakiya</h1>
-<h3 align="center">A passionate developer & Graphic Designer from India</h3>
-<img align="right" alt="coding" Width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
+<p align="center">
+  <img src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" width="400" alt="Coding GIF" />
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhruvinkatakiya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvinkatakiya&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvinkatakiya" /> </p>
+---
 
-- 🔭 I’m currently working on **Hospital Helper**  
+### 🚀 About Me
 
-- 💬 Ask me about **HTML,CSS,Flutter,PHP,Android**
+- 🔭 Currently building **Hospital Helper**
+- 🎯 Specialize in **React**, **Flutter**,**Ui-Ux** ,**SCSS**, and **Tailwind CSS** 
+- 📫 Reach me at: **dev.dhruvin.0.1@gmail.com**
 
-- 📫 How to reach me **dev.dhruvin.0.1@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect with Me
+
 <p align="left">
-<a href="https://linkedin.com/in/dhruvin katakiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvin katakiya" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/dhruvinkatakiya" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
+  </a>
+  <a href="mailto:dev.dhruvin.0.1@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail--v1.png" height="30" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="REACTJS" width="70" height="42"/>  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="Tailwind css" width="70" height="45"/> </a> 
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="40" height="40"/>
+---
+
+### 🧠 Skills & Tools
+
+#### 👨‍💻 Languages & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,js,react,flutter,dart,php,java,cpp,c,python,arduino" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvinkatakiya&show_icons=true&locale=en&layout=compact" alt="dhruvinkatakiya" /></p>
+#### 🛠️ Dev Tools & Platforms
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvinkatakiya&show_icons=true&locale=en" alt="dhruvinkatakiya" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,mysql,mongodb,firebase,figma,postman,androidstudio,vscode,aws,docker" />
+
+  <a href="https://n8n.io/" target="_blank" rel="noreferrer">
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.56.0/files/dark/n8n-color.png" alt="n8n" width="40" height="40" />
+  </a>
+
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/canva.png" alt="canva" width="50" height="50" />
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=dhruvinkatakiya&show_icons=true&theme=default" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvinkatakiya&layout=compact" />
+</p>
+
+---
+
+### ☕ Support Me
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/dhruvinkatakiya" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+> “I design it, code it, automate it, and ship it.”  
+> Turning ideas into real, interactive products is my happy place 🧠✨
+
+---
