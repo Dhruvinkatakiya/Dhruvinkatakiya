@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruvin Katakiya</h1>
-<h3 align="center">💻 Software Developer | 🎨 UI/UX Designer </h3>
+<h3 align="center">💻 Software Developer | 🎨 UI/UX Designer</h3>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" width="400" alt="Coding GIF" />
@@ -14,7 +14,7 @@
 ### 🚀 About Me
 
 - 🔭 Currently building **Hospital Helper**
-- 🎯 Specialize in **React**, **Flutter**,**Ui-Ux** ,**SCSS**, and **Tailwind CSS** 
+- 🎯 Specializing in **React**, **Flutter**, **UI/UX**, **SCSS**, and **Tailwind CSS**
 - 📫 Reach me at: **dev.dhruvin.0.1@gmail.com**
 
 ---
@@ -42,7 +42,7 @@
 
 #### 🛠️ Dev Tools & Platforms
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,mysql,mongodb,firebase,figma,postman,androidstudio,vscode,aws,docker" />
 
   <a href="https://n8n.io/" target="_blank" rel="noreferrer">
@@ -57,10 +57,14 @@
 ---
 
 ### 📈 GitHub Stats
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dhruvinkatakiya&theme=blue_navy&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&line_height=23" alt="GitHub Stats" />
 
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=dhruvinkatakiya&show_icons=true&theme=default" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvinkatakiya&layout=compact" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=dhruvinkatakiya&theme=blue-green&hide_border=false&date_format=M+j%5B%2C+Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvinkatakiya&theme=gotham&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
@@ -77,7 +81,9 @@
 
 ### ⚡ Fun Fact
 
-> “I design it, code it, automate it, and ship it.”  
+> _“I design it, code it, automate it, and ship it.”_  
 > Turning ideas into real, interactive products is my happy place 🧠✨
 
 ---
+
+> _Want to work together? Feel free to reach out. I'm always open to new collaborations!_
