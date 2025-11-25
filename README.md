@@ -13,7 +13,7 @@
 ### 🚀 About Me  
 - 🔭 I’m currently working on **Hospital Helper**  
 - 👯 I’m looking to collaborate on **Hospital Helper**  
-- 👨‍💻 My portfolio: [dhruvinkatakiya.me](https://dhruvinkatakiya.me/)  
+- 👨‍💻 My portfolio: [www.dhruvinkatakiya.me](https://dhruvinkatakiya.me/)  
 - 💬 Ask me about **Flutter, React, UI/UX, n8n**  
 - 📫 Reach me at: **katakiyadhruvin1@gmail.com**  
 
