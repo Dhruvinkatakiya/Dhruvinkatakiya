@@ -83,7 +83,7 @@
 ### 📊 GitHub Stats  
 
 <div align="center">
-  
+
   <!-- All-time commits + stats -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhruvinkatakiya&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
 
