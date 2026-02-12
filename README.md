@@ -96,3 +96,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvinkatakiya&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
+
+> _Want to work together? Feel free to reach out. I'm always open to new collaborations!_
