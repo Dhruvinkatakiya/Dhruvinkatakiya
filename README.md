@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=720&height=60&lines=A+Passionate+Developer+from+India;Flutter+Developer;Full-Stack+Web+Developer;UI%2FUX+Enthusiast;Freelancer;Problem+Solver" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhruvinkatakiya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
