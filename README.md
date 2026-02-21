@@ -73,9 +73,7 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/android.png" alt="Android" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/arduino.png" alt="Arduino" width="40" height="40"/>
 </p>
-
 ---
-
 ### 📊 GitHub Stats  
 
 <div align="center">
