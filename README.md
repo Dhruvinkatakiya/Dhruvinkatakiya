@@ -1,3 +1,4 @@
+![greetingGIF](https://github.com/Rupal-Dhurde/Rupal-Dhurde/assets/138601399/6c1ed653-fd1b-4c90-a554-f625b3111606)
 <h1 align="center">Hi 👋, I'm Dhruvin Katakiya</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=720&height=60&lines=A+Passionate+Developer+from+India;Flutter+Developer;Full-Stack+Web+Developer;UI%2FUX+Enthusiast;Freelancer;Problem+Solver" alt="Typing SVG" />
