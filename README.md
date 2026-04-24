@@ -26,57 +26,53 @@
 
 ---
 
-### 🛠️ Languages and Tools  
+### 🛠️ Languages & Tools  
 
-<p align="center">
-  <!-- First row -->
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/html.png" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/css.png" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/sass.png" alt="Sass" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/tailwind_css.png" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.png" alt="React" width="40" height="40"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <!-- Second row -->
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/node_js.png" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/java.png" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c.png" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c++.png" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/php.png" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/dart.png" alt="Dart" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/flutter.png" alt="Flutter" width="40" height="40"/>
-</p>
+<!-- Frontend -->
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/html.png" height="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/css.png" height="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/sass.png" height="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/bootstrap.png" height="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/tailwind_css.png" height="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png" height="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.png" height="40"/>
+<br>
 
-<p align="center">
-  <!-- Third row -->
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mysql.png" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mongodb.png" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/firebase.png" alt="Firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws.png" alt="AWS" width="40" height="40"/>
-</p>
+<!-- Backend -->
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/node_js.png" height="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/java.png" height="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c.png" height="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c++.png" height="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" height="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/php.png" height="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/dart.png" height="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/flutter.png" height="40"/>
+<br>
 
-<p align="center">
-  <!-- Fourth row -->
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/android_studio.png" alt="Android Studio" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/visual_studio_code.png" alt="VS Code" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postman.png" alt="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/figma.png" alt="Figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/canva.png" alt="Canva" width="40" height="40"/>
-</p>
+<!-- Database -->
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mysql.png" height="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mongodb.png" height="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/firebase.png" height="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" height="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws.png" height="40"/>
+<br>
 
-<p align="center">
-  <!-- Fifth row -->
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/android.png" alt="Android" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/arduino.png" alt="Arduino" width="40" height="40"/>
-</p>
+<!-- Tools -->
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" height="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/android_studio.png" height="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/visual_studio_code.png" height="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postman.png" height="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/figma.png" height="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/canva.png" height="40"/>
+<br>
 
----
+<!-- Other -->
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/android.png" height="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/arduino.png" height="40"/>
+
+</div>
 
 ### 📊 GitHub Stats  
 
